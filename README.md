@@ -5,8 +5,8 @@
 
 <h3 align="left">Conéctese conmigo:</h3>
 <p align="left">
-<a href="https://instagram.com/ellygmr" target=" blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt=" ellygmr" altura="30" ancho="40" /></a>
-<a href="/https://www.tiktok.com/@ellygmr?lang=es" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain /github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.tiktok.com/@ellygmr?lang=es" height="30" width= "40" /></a>
+<a href="https://instagram.com/ellygmr" target=" blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt=" ellygmr" altura="10" ancho="10" /></a>
+<a href="/https://www.tiktok.com/@ellygmr?lang=es" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain /github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.tiktok.com/@ellygmr?lang=es" height="10" width= "10" /></a>
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
