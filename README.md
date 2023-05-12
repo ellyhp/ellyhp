@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ellyhp</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
 - 👨‍💻 All of my projects are available at [ellyhportfolio.com](ellyhportfolio.com)
 
