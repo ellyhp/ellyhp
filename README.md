@@ -1,8 +1,17 @@
 ![Aditya Vikram Singh Banner](https://i.postimg.cc/QMP998PM/bg.png)
 
-  <br>
+<p align="center">
 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/elizabeth-villarruel-3b7745273/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ellygmr/)
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/profile.php?id=100092681746115) 
+[![Visits Badge](https://badges.pufler.dev/visits/ellyhp/ellyhp?style=for-the-badge)](https://github.com/ellyhp)
 
+</p>
+
+  
+
+<Br>
 
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
